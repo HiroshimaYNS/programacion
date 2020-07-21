@@ -1,0 +1,26 @@
+body{
+    background-color: rgb(9, 125, 219);
+    font-weight: 100;
+    
+}
+h1{
+    text-align: center;
+    text-shadow: beige;
+    font-size: 100px; 
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: cornsilk;
+    
+}
+h2{
+    text-align: center;
+    color: cornsilk;
+}
+img{
+    display: block;
+    margin: 0 auto;
+}
+.btn{
+    background-color: blue;
+    color: cyan;
+    border-radius: 2rem;
+}
